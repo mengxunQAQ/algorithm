@@ -1,4 +1,4 @@
-#### Examples of algorithm
+## Examples of algorithm
 
 Some examples of the algorithm,implemented in Python.
 
