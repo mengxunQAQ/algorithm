@@ -1,6 +1,7 @@
 ## Examples of algorithm
 
-Some examples of the algorithm,implemented in Python.
+The learning of some algorithm,implemented in Python.
 
-- [Sudoku](source/sudoku.py)
-- [Eight Queens](source/eight_queens.py)
+- [Sudoku 数独](source/sudoku.py)
+- [Eight Queens 八皇后](source/eight_queens.py)
+- [Backpage 背包问题]()
