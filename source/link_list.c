@@ -47,5 +47,9 @@ void add(Node* head, Node* node) {
 	node -> next = NULL; 
 } 
 
+// É¾³ý½áµã
+void drop(Node* head) {
+   Node *p1;
+   p1 = head;
 
-
+}
