@@ -2,7 +2,6 @@
 #include <stdio.h>
 
 
-
 typedef struct ListNode {
 	int value;
 	struct ListNode *next;
